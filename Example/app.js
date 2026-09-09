@@ -1,7 +1,7 @@
 let params = {
     nameUser: "John",
     password: "12345",
-    isActive: false
+    isActive: true
 };//Objeto de javascript | JSON: javascript object notation
 
 //los fields de params son: nameUser, password y isActive
